@@ -4,10 +4,10 @@ WordPress の投稿ページの CSS をさくっと作成したい時、さく�
 
 ## こちらをお借りしました。
 
-コンテンツエリアのマークアップで必要なHTMLの要素。コピペすると使える。 - Shinichi Nishikawa's
+コンテンツエリアのマークアップで必要なHTMLの要素。コピペすると使える。 - Shinichi Nishikawa's  
 <http://nskw-style.com/content-area-markup>
 
-WP Content Area Markup
+WP Content Area Markup  
 <https://gist.github.com/ShinichiNishikawa/01616298fbcf6ec3426a>
 
 ## Usage
