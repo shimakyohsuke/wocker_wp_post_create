@@ -257,6 +257,10 @@ SlideShare のURL貼り付け
 
 http://www.slideshare.net/NSKW/learning-from-theme-review-requirements
 
+Speaker Deck のURL貼り付け
+
+https://speakerdeck.com/shimakyohsuke/zerokodeingude-wordpress-saitozhi-zuo-hanzuon
+
 TED のURL貼り付け
 
 http://www.ted.com/talks/kaki_king_a_musical_escape_into_a_world_of_light_and_color
